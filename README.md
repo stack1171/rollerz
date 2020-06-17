@@ -8,4 +8,4 @@ Project includes: BallPawn PickUps Widget Canvas
 Gotta love visual code
 This little piece takes care of the explosive force from a bomb
 
-![Image](explosive.jpg)
+![Image](explosive.JPG)
